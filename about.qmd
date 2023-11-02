@@ -5,26 +5,44 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  EnerjiSA, Data Management Candidate Engineer, 2023
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Mercedes-Benz Turk A.S, Production Intern, 2023
 
-2.  Firm bbb, position yyy, year yyy
+2.  Turk Traktor ve Zıraat Makıneleri A.S, Process Engineering Intern, 2023
+
+3.  TAI, Long Term Assembly Production Planning Intern, 2022
 
 # Projects
 
+Finding and reporting assembleable plane parts for final assembly using Excel VBA, SQL
+
 # Competencies
 
-R, Quarto, Git, Python
+*Technical Skills:*
+
+Microsoft Office Programs , ExcelVBA, Microsoft SQL Server, Python, Matlab, Arena
+
+*Soft Skills:*
+
+Team Work, Ability to Manage a Team, Presentation, Effective Communication, Being Solution Oriented, Openness to Learning
 
 # Hobbies
+
+Painting
+
+Puzzle Making
+
+Digital Photography
+
+# CV
+
+[ZumrutOzsoyCV](https://drive.google.com/file/d/1K_4rSRjzYqHIv_WDV2i0m0H-x3HcM30w/view?usp=sharing)

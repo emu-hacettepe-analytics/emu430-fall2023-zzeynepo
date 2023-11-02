@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Zumrut Zeynep Ozsoy's Analytics Lab"
   navbar:
     search: true
     left:
@@ -22,11 +22,9 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/zzeynepo
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/z%C3%BCmr%C3%BCt-zeynep-%C3%B6zsoy-6b2481206/
 
   sidebar:
     - title: "Assignments"
@@ -46,10 +44,9 @@ format:
     toc: true
     toc-location: left
     theme: 
-      light: pulse 
-      dark: superhero
+      light: spacelab
+      dark: lux
     css: styles.css
 
 
 editor: visual
-

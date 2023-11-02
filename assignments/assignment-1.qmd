@@ -8,8 +8,82 @@ title: "Assignment 1"
 1 + 1
 ```
 
-My first assignment has two parts.
+My first assignment has three parts.
 
 ## (a)
 
+**Save An Ocean Of Time: Streamline Data Wrangling With R**
+
+Danielle Dempsey
+
+The speaker is a research scientist at a small company. This company  measures ocean variables like temperature, dissolved oxygen and salinity from all around the coast. This data can be used by scientist to study ecosystems or industry to inform their site selection, goverment to inform their policy and management decisions and more. So this is valuable data, but it was stored in somebodys desktop in a myriad of CSV and Excel files that very time consuming to compile into a useful format.
+
+  There is a tool called sensor string, it has a sensor attached to a rope in different depts through the water column, and these sensors recordes data every one minute to one hour. Each sensor string is deployed in one location for couple of months. The sensors report the information on a data file, but it can be understood that there is a lot of information, therefore a lot of data.
+
+At first, the speaker's role was, to compile all of this data into a nice and tidy format that the company could post online and any interested stakeholder can dowload and use in their own analyses. The transformation process was very manually detailed such as copying, pasting, and filtering.
+
+So, she wrote a R package, strings, that reduced processing time by 95%. The package has since become integral to their data pipeline, including quality control, analysis, visualization, and report generation in RMarkdown. She spent a few weeks developing the backbone of the strings package, most of the packages comes from tidyverse.
+
+They estimated that, it took them 2 years of work hours old manually copy and paste method to compile the data. However, they developed the package, compiled and formatted all of the data posted online and generated summary reports through R Markdown within couple of months. This package is as an alternative to avoid manual implementation, knowing she will be spending a lot of time upfront, but not much time for the after. It is also very easy to train new people to compile the data using templates that she wrote to go with the package.
+
+She also find a way to detect errors, their reasons and come up with the solution with this package. This shows that, this package also helped to reduce errors and making our data more reliable for decision-making.
+
+To conclude, this video gives a nice understanding about how companies adopt coding to their work environment, and it can be difficult to convince yourself or the manager that it is worth spending time to write a code for date related tasks, especially there is already an existing process that is good enough. But, writing code can be time consuming upfront, but it is worth it in the long run.
+
 ## (b)
+
+1)indexing
+
+***in python;***
+
+\[13:17\]
+
+Gives 13, 14, 15, 16
+
+***in R;***
+
+\[13:17\]
+
+Gives 13, 14, 15, 16, 17
+
+2\)  libraries and packages
+
+***in python;***
+
+import pandas as pd
+
+***in R;***
+
+library(dplyr)
+
+3\) subsetting a data frame
+
+***in python;***
+
+murders.population
+
+***in R;***
+
+murders\$population
+
+## (c)
+
+library(dslabs)
+
+data(na_example)
+
+print(na_example)
+
+summation \<- sum(is.na(na_example))
+
+summation
+
+na_example\[is.na(na_example)\] \<- 0
+
+na_example
+
+dataf \<- na_example
+
+dataf
+
+summation \<- sum(is.na(df))
