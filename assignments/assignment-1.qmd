@@ -2,12 +2,6 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
-
-```{r}
-1 + 1
-```
-
 My first assignment has three parts.
 
 ## (a)
