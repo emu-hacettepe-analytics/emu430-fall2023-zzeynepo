@@ -3,11 +3,7 @@ project:
   output-dir: docs
 
 website:
-<<<<<<< HEAD
   title: Zümrüt Zeynep Özsoy's Analytics Lab
-=======
-  title: "Zumrut Zeynep Ozsoy's Analytics Lab"
->>>>>>> 209601c3db9968d73ec8478c177bd3793c65e68f
   navbar:
     search: true
     left:
