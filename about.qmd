@@ -42,3 +42,10 @@ Painting
 Puzzle Making
 
 Digital Photography
+<<<<<<< HEAD
+=======
+
+# CV
+
+[ZumrutOzsoyCV](https://drive.google.com/file/d/1K_4rSRjzYqHIv_WDV2i0m0H-x3HcM30w/view?usp=sharing)
+>>>>>>> 209601c3db9968d73ec8478c177bd3793c65e68f
