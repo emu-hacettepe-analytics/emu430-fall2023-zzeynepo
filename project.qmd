@@ -3,10 +3,12 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[group name\] project team.
+I'm honored to be a member of the EMUTREND Explorers project team.
 
-Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://\[your-project-url\]](#0){.uri}.
+Below, you'll find a brief summary of our project. To access a detailed project description, please go to <https://emu-hacettepe-analytics.github.io/emu430-fall2023-team-emutrend_explorers/>
 
 **Summary**
 
-\[provide a biref summary of your project\]
+Analyzing Preference Patterns A Study on Industrial Engineering Program in Ankara
+
+This research investigates the preferences of students in Industrial Engineering programs in Ankara. The project aims to understand the influence of these programs on student choices, exploring trends in program preferences and identifying factors that may affect these decisions. The study will focus on aspects such as the popularity of programs, reasons behind students' motivation for selecting a particular program, distinctive features of the programs, and students' future expectations. The objective is to provide insights into how students perceive and make choices regarding Industrial Engineering programs in Ankara.
